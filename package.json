@@ -1,0 +1,23 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "A program to generate logos for companies in an SVG format",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },https://github.com/alragon24/logo-generator-
+  "repository": {
+    "type": "git",
+    "url": "
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": https://github.com/alragon24/logo-generator-
+  },
+  "homepage": https://github.com/alragon24/logo-generator-
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "inquirer-maxlength-input-prompt": "^1.0.2",
+    "jest": "^29.6.4"
+  }
+}
